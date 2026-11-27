@@ -1,0 +1,11 @@
+{
+  "Games": {
+    "NeedForSpeedHeat": {
+      "GamePath": "C:\Path\To\Need for Speed Heat",
+      "BookmarkDb": "",
+      "Options": { "SelectedPack": "Default", "CommandLineArgs": "" },
+      "Packs": { "Default": "" }
+    }
+  },
+  "GlobalOptions": { "DefaultProfile": "NeedForSpeedHeat" }
+}
