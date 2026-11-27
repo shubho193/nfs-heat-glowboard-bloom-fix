@@ -2,6 +2,8 @@
 
 Frosty mod for Need for Speed Heat that reduces night bloom on glowing signs and billboards by lowering their emissive intensity to 35% of vanilla (411 sign meshes using `Shaders/World/Signs/SGN_*`). Lighting/VE files are untouched, so it works with any lighting mod.
 
+_MADE FOR COMPATIBILITY WITH EVOLUTION WORKS MOD, SINCE THAT CAN TAKE BLOOM LEVELS A BIT TOO EXTREME._
+
 ## Install
 Download `Glowboard Bloom Fix.fbmod` from Releases, add it in Frosty Mod Manager, place it at the bottom of the load order, apply.
 
